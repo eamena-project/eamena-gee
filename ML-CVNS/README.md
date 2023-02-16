@@ -5,7 +5,7 @@
 
 ### Learning base
 
-- 60/80% of data tagged CVNS (examples)
+- 60/80% of [data tagged CVNS](https://github.com/eamena-project/eamena-gee/tree/main/ML-CVNS#extraction-of-cvns-spatial-prints) (examples)
 - 40/20% of data tagged ⌐ CVNS (counter examples)
 - 200/300 images
 - 1 CVNS = 1 image

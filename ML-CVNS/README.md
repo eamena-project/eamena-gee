@@ -13,3 +13,6 @@
 - composed of images only, preferably in RAW (.gis) format
 - number of pixels per image relatively the same from one image to another
 - leave buffers (e.g. 10 m, 50 m)
+
+#### Extraction of CVNS spatial prints
+> *draw a polygon and extract the landcover inside, extract an image from Google Earth Engine, Access the underlying image*

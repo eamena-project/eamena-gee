@@ -17,4 +17,4 @@
 #### Extraction of CVNS spatial prints
 > *draw a polygon and extract the landcover inside, extract an image from Google Earth Engine, Access the underlying image*
 
-![](https://raw.githubusercontent.com/eamena-project/eamena-arches-dev/master/www/gee-cvns.png){width=700px}
+![my caption](https://raw.githubusercontent.com/eamena-project/eamena-arches-dev/master/www/gee-cvns.png)

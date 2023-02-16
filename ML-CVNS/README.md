@@ -15,7 +15,7 @@
 - leave buffers (e.g. 10 m, 50 m)
 
 #### Extraction of CVNS spatial prints
-> *draw a polygon and extract the landcover inside*;* extract an image from Google Earth Engine*;* access the underlying image*
+> *draw a polygon and extract the landcover inside*; *extract an image from Google Earth Engine*; *access the underlying image*
 
 The idea is to extract CVNS spatial prints from Google Earth Engine
 

@@ -1,6 +1,8 @@
 # ML-CVNS
 > Machine Learning (ML) to automate detection of caravanserais (CVNS)
 
+**Aims**: Site automated detection in desert areas (Middle East and North Africa)
+
 ## Bases
 
 ### Learning base
@@ -17,6 +19,6 @@
 #### Extraction of CVNS spatial prints
 > *draw a polygon and extract the landcover inside*; *extract an image from Google Earth Engine*; *access the underlying image*
 
-The idea is to extract CVNS spatial prints from Google Earth Engine
+The idea is to extract CVNS spatial prints from Google Earth Engine using POLYGONS recorded in the EAMENA database ([examples](https://eamena-project.github.io/reveal.js/projects/caravanserail.html#/1))
 
 ![my caption](https://raw.githubusercontent.com/eamena-project/eamena-arches-dev/master/www/gee-cvns.png)
